@@ -43,6 +43,7 @@ public class Demo4 {
 		System.out.println(dq.peek());  //3
 		System.out.println(dq.peekFirst()); //3
 		System.out.println(dq.getFirst()); //3
+		System.out.println(dq.element()); //3
 		
 		
 	}
